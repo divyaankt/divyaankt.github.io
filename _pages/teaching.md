@@ -11,4 +11,4 @@ As a Teaching Assistant, conducted 5 workshops titled, ‘Python Fundamentals fo
 
 ***
 
-Teaching Assistant for the Semester-I course, ‘ES11: Structured Programming Approach’. Primarily incharge of conducting lab sessions along with fellow TAs for around 40 First Year Computer Engineering students (2019).
+Teaching Assistant for the Semester-I course, ‘ES11: Structured Programming Approach’. Primarily incharge of conducting lab sessions along with fellow TAs for around 40 First Year Computer Engineering students @ Sardar Patel Institute of Technology (2019).

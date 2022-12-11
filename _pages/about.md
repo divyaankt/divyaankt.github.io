@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Kandivali-West, Mumbai-400067</p>
+    <p>Kandivali, Mumbai-400067</p>
     <p>Maharashtra, India</p>
 
 news: true  # includes a list of news items
