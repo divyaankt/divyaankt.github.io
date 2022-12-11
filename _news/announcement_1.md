@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: College -> Real World
+date: 2020-01-06
+inline: false
 ---
 
-A simple inline announcement.
+Today I join Siemens, Pune as a Data Science Intern for a period of 6 months. I'm fortunate that I'm getting a relatively longer stint as an Intern owing to our colleges pilot 6-month internship initiative for 4th-year students.
