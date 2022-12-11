@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - divyaankt
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - divyaankt/monkey
+  - divyaankt/DivLisp
+  - divyaankt/DivTextEd
+  - divyaankt/jlox
+  - divyaankt/PersonalityTraitClassifierModel
