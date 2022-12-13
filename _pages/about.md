@@ -5,11 +5,11 @@ permalink: /
 subtitle: <a href='https://www.msci.com/'>MSCI</a>. <a href='https://www.spit.ac.in/'>Sardar Patel Institute of Technology</a>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mumbai, Maharashtra, India</p>
+    :house: <p>Mumbai, Maharashtra, India</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
