@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Index EUBMR Portal
+description: A compliance portal for Index Engineering Applications
+img: 
+redirect: 
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Monkey Language Interpreter
+description: Developed an interpreter for the 'Monkey' language by following Thorsten Ball's 'Writing An Interpreter In Go' book
 img:
 importance: 3
-category: fun
+category: Fun
 ---
 
 Every project has a beautiful feature showcase page.

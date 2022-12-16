@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: application-infra-stats
+description: A command-line utility for analysing Performance/Application metrics for Index Calculation Service.
+img: 
 importance: 2
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

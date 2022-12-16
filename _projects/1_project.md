@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Factor Exposure API
+description: The project that our team at MSCI is currently working on. 
+img: 
 importance: 1
 category: work
 ---

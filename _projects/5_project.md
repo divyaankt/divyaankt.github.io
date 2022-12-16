@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: JLox
+description: Creating an Tree-Walk interpreter y following through Robert Nystrom's, 'Crafting Interpreters' book.
+img: 
 importance: 3
-category: fun
+category: Fun
 ---
 
 Every project has a beautiful feature showcase page.
