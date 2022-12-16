@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selected list of the projects undertaken by me over the years.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Work, Fun]
 horizontal: false
 ---
 
