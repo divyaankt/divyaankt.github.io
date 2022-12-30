@@ -1,8 +1,9 @@
 ---
 layout: page
 title: application-infra-stats
-description: A command-line utility for analysing Performance/Application metrics for Index Calculation Service.
+description: A command-line utility for analysing Performance/Application metrics for the Index Calculation Service @ MSCI.
 img: 
+redirect: https://divyaankt.github.io/projects/
 importance: 2
 category: Work
 ---

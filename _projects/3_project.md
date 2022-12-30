@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Index EUBMR Portal
-description: A compliance portal for Index Engineering Applications
+description: A compliance portal for MSCI's Index Engineering Applications.
 img: 
-redirect: 
+redirect: https://divyaankt.github.io/projects/
 importance: 3
 category: Work
 ---

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: DivLisp
-description: Brushed up my C skills by implementing Lisp by following the 'Build Your Own Lisp' tutorial.
+description: Brushed up my C skills by implementing a Lisp based on the 'Build Your Own Lisp' tutorial.
 img:
+redirect: https://github.com/divyaankt/DivLisp
 importance: 4
 category: Fun
 ---

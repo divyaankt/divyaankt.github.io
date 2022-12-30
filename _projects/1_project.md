@@ -3,8 +3,9 @@ layout: page
 title: Factor Exposure API
 description: The project that our team at MSCI is currently working on. 
 img: 
+redirect: https://divyaankt.github.io/projects/
 importance: 1
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

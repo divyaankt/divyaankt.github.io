@@ -3,6 +3,7 @@ layout: page
 title: Monkey Language Interpreter
 description: Developed an interpreter for the 'Monkey' language by following Thorsten Ball's 'Writing An Interpreter In Go' book
 img:
+redirect: https://github.com/divyaankt/monkey
 importance: 3
 category: Fun
 ---

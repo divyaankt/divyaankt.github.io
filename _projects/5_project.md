@@ -1,8 +1,9 @@
 ---
 layout: page
 title: JLox
-description: Creating an Tree-Walk interpreter y following through Robert Nystrom's, 'Crafting Interpreters' book.
+description: Implemented a Tree-Walk interpreter by following through Robert Nystrom's, 'Crafting Interpreters' book.
 img: 
+redirect: https://github.com/divyaankt/jlox
 importance: 3
 category: Fun
 ---
