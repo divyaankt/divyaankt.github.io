@@ -10,6 +10,7 @@ nav_order: 5
 Sardar Patel Institute of Technology
 
 ***
+***
 
 As a Teaching Assistant, conducted 5 workshops titled, ‘Python Fundamentals for Data Science’ for the Semester-III Computer Engineering course, ‘MA203: Probability and Statistics’ (August 2022 - September 2022).
 
