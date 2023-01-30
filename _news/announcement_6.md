@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm currently taking NPTEL courses in GPU Architecture, Parallel Programming, Numerical Analysis & Optimization 
+title: GPU Architecture, Parallel Programming, Numerical Analysis & Optimization....
 date: 2023-01-30
 inline: false
 ---
