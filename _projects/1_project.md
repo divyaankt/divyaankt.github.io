@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exposure API
-description: The core API that empowers <a href="https://developer.msci.com/apis/instrument-analytics-api">Instrument Analytics API</a> at MSCI. 
+description: The core API that empowers Instrument Analytics API at MSCI. 
 img: 
 redirect: https://divyaankt.github.io/projects/
 importance: 1
